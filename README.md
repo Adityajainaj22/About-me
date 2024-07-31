@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and analytics...
 - 🌱 I’m currently learning advanced Python, SQL, R, Tableau, Power BI and statistical techniques...
 - 📫 How to reach me - adityajainaj22@gmail.com
-
+- ✨ Public Tableau Visualization Link: https://public.tableau.com/app/profile/aditya.jain5502/vizzes
 <!---
 Adityajainaj22/Adityajainaj22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
